@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="./github/logo.png" alt="TheLastOfUsll" width="120">
+  <img src="./github/logo.jpg" alt="TheLastOfUsll" width="120">
 <br>
 <br>
 The Last Of Us ll
